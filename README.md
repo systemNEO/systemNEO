@@ -1,6 +1,8 @@
 ## WELCOME
 *I am a fulstack web dev and I love it.*
 
+![Twitch Status](https://img.shields.io/twitch/status/systemneo?style=for-the-badge&logo=twitch&logoColor=fff)
+
 ---
 
 ### MY PROJECTS
@@ -66,8 +68,6 @@
 ![Slack Badge](https://img.shields.io/badge/Slack-31A8FF?logo=slack&logoColor=fff&style=for-the-badge)
 ![Notion Badge](https://img.shields.io/badge/Notion-31A8FF?logo=notion&logoColor=fff&style=for-the-badge)
 ![Fruity Loops Badge](https://img.shields.io/badge/Fruity_Loops-31A8FF?style=for-the-badge)
-
-![Twitch Status](https://img.shields.io/twitch/status/systemneo?style=for-the-badge&logo=twitch&logoColor=fff)
 
 ---
 
