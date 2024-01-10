@@ -4,7 +4,7 @@
 
 ---
 
-### LANGUAGES 
+### LANGUAGES & CO
 ![Lua Badge](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff&style=flat)
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
@@ -25,9 +25,6 @@
 ![Markdown Badge](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=fff)
 ![.env Badge](https://img.shields.io/badge/.env-ECD53F?style=flat&logo=dotenv&logoColor=000)
 
----
-
-### FRAMEWORKS
 ![Angular Badge](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff&style=flat)
 ![AngularJS Badge](https://img.shields.io/badge/AngularJS-E23237?logo=angularjs&logoColor=fff&style=flat)
 ![Font Awesome Badge](https://img.shields.io/badge/Font%20Awesome-528DD7?logo=fontawesome&logoColor=fff&style=flat)
@@ -35,15 +32,9 @@
 ![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
 ![Sencha Badge](https://img.shields.io/badge/Sencha-86BC40?logo=sencha&logoColor=fff&style=flat)
 
----
-
-### OS SYSTEMS
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 
----
-
-### CODE RELATED APPS
 ![PHPStorm Badge](https://img.shields.io/badge/PHPStorm-000000?logo=phpstorm&logoColor=fff&style=flat)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
 ![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=flat)
@@ -58,9 +49,6 @@
 ![Notepad++ Badge](https://img.shields.io/badge/Notepad%2B%2B-90E59A?logo=notepadplusplus&logoColor=fff&style=flat)
 ![Eclipse IDE Badge](https://img.shields.io/badge/Eclipse_IDE-2C2255?logo=eclipseide&logoColor=fff&style=flat)
 
----
-
-### OTHER APPS
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
 ![Adobe Premiere Badge](https://img.shields.io/badge/Adobe%20Premiere-31A8FF?logo=adobepremierepro&logoColor=fff&style=flat)
 ![Davinci Resolve Badge](https://img.shields.io/badge/Davinci%20Resolve-FFA200?style=flat&logo=blackmagicdesign&logoColor=fff)
