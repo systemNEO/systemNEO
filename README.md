@@ -1,3 +1,8 @@
+## WELCOME
+*I am a fulstack web dev and I love my job.*
+
+---
+
 ### MY PROJECTS
 | [![Night Shift Studio](https://avatars.githubusercontent.com/u/114626586?s=100&v=4)<br />Night Shift Studio](https://night-shift-studio.com/)<br />REDM scripts |
 |:------:|
@@ -48,6 +53,7 @@
 ![Docker Badge](https://img.shields.io/badge/Docker-F05032?logo=docker&logoColor=fff&style=for-the-badge)
 ![Notepad++ Badge](https://img.shields.io/badge/Notepad%2B%2B-F05032?logo=notepadplusplus&logoColor=fff&style=for-the-badge)
 ![Eclipse IDE Badge](https://img.shields.io/badge/Eclipse_IDE-F05032?logo=eclipseide&logoColor=fff&style=for-the-badge)
+![Postman Badge](https://img.shields.io/badge/Postman-F05032?logo=postman&logoColor=fff&style=for-the-badge)
 
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge)
 ![Adobe Premiere Badge](https://img.shields.io/badge/Adobe%20Premiere-31A8FF?logo=adobepremierepro&logoColor=fff&style=for-the-badge)
