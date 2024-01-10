@@ -1,5 +1,5 @@
 ## WELCOME
-*I am a fulstack web dev and I love it.*
+*I am a fulstack web dev since 1998 and I love it.*
 
 [![Twitch Status](https://img.shields.io/twitch/status/systemneo?style=for-the-badge&logo=twitch&logoColor=fff)](https://www.twitch.tv/systemneo)
 
