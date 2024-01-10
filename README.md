@@ -1,71 +1,71 @@
-### MY CURRENT PROJECTS
+### MY PROJECTS
 | [![Night Shift Studio](https://avatars.githubusercontent.com/u/114626586?s=100&v=4)<br />Night Shift Studio](https://night-shift-studio.com/)<br />REDM scripts |
 |:------:|
 
 ---
 
-### LANGUAGES & CO
+### MY SKILLS & TOOLS
 ![Lua Badge](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff&style=for-the-badge)
-![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
-![SASS Badge](https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=fff&style=for-the-badge)
-![LESS Badge](https://img.shields.io/badge/LESS-1D365D?logo=less&logoColor=fff&style=for-the-badge)
-![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
-![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
-![MSSQL Badge](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=fff)
-![C# Badge](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=for-the-badge)
-![Java Badge](https://img.shields.io/badge/Java-F80000?logo=oracle&logoColor=fff&style=for-the-badge)
-![ActionScript Badge](https://img.shields.io/badge/ActionScript-333333?style=for-the-badge&logo=adobe)
-![Visual Basic Badge](https://img.shields.io/badge/Visual%20Basic-512BD4?style=for-the-badge&logo=visualbasic&logoColor=fff)
-![YAML Badge](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=fff)
-![Handlebars Badge](https://img.shields.io/badge/Handlebars-000000?style=for-the-badge&logo=handlebarsdotjs&logoColor=fff)
-![Markdown Badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=fff)
-![.env Badge](https://img.shields.io/badge/.env-ECD53F?style=for-the-badge&logo=dotenv&logoColor=000)
+![PHP Badge](https://img.shields.io/badge/PHP-2C2D72?logo=php&logoColor=fff&style=for-the-badge)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-2C2D72?logo=javascript&logoColor=fff&style=for-the-badge)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-2C2D72?logo=typescript&logoColor=fff&style=for-the-badge)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-2C2D72?logo=html5&logoColor=fff&style=for-the-badge)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-2C2D72?logo=css3&logoColor=fff&style=for-the-badge)
+![SASS Badge](https://img.shields.io/badge/SASS-2C2D72?logo=sass&logoColor=fff&style=for-the-badge)
+![LESS Badge](https://img.shields.io/badge/LESS-2C2D72?logo=less&logoColor=fff&style=for-the-badge)
+![MySQL Badge](https://img.shields.io/badge/MySQL-2C2D72?style=for-the-badge&logo=mysql&logoColor=fff)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-2C2D72?style=for-the-badge&logo=postgresql&logoColor=fff)
+![MSSQL Badge](https://img.shields.io/badge/MSSQL-2C2D72?style=for-the-badge&logo=microsoftsqlserver&logoColor=fff)
+![C# Badge](https://img.shields.io/badge/C%23-2C2D72?logo=csharp&logoColor=fff&style=for-the-badge)
+![Java Badge](https://img.shields.io/badge/Java-2C2D72?logo=oracle&logoColor=fff&style=for-the-badge)
+![ActionScript Badge](https://img.shields.io/badge/ActionScript-2C2D72?style=for-the-badge&logo=adobe)
+![Visual Basic Badge](https://img.shields.io/badge/Visual%20Basic-2C2D72?style=for-the-badge&logo=visualbasic&logoColor=fff)
+![YAML Badge](https://img.shields.io/badge/YAML-2C2D72?style=for-the-badge&logo=yaml&logoColor=fff)
+![Handlebars Badge](https://img.shields.io/badge/Handlebars-2C2D72?style=for-the-badge&logo=handlebarsdotjs&logoColor=fff)
+![Markdown Badge](https://img.shields.io/badge/Markdown-2C2D72?style=for-the-badge&logo=markdown&logoColor=fff)
+![.env Badge](https://img.shields.io/badge/.env-2C2D72?style=for-the-badge&logo=dotenv&logoColor=fff)
 
 ![Angular Badge](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff&style=for-the-badge)
-![AngularJS Badge](https://img.shields.io/badge/AngularJS-E23237?logo=angularjs&logoColor=fff&style=for-the-badge)
-![Font Awesome Badge](https://img.shields.io/badge/Font%20Awesome-528DD7?logo=fontawesome&logoColor=fff&style=for-the-badge)
-![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge)
-![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=for-the-badge)
-![Sencha Badge](https://img.shields.io/badge/Sencha-86BC40?logo=sencha&logoColor=fff&style=for-the-badge)
+![AngularJS Badge](https://img.shields.io/badge/AngularJS-DD0031?logo=angular&logoColor=fff&style=for-the-badge)
+![Font Awesome Badge](https://img.shields.io/badge/Font%20Awesome-DD0031?logo=fontawesome&logoColor=fff&style=for-the-badge)
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-DD0031?logo=bootstrap&logoColor=fff&style=for-the-badge)
+![jQuery Badge](https://img.shields.io/badge/jQuery-DD0031?logo=jquery&logoColor=fff&style=for-the-badge)
+![Sencha Badge](https://img.shields.io/badge/Sencha-DD0031?logo=sencha&logoColor=fff&style=for-the-badge)
 
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=for-the-badge)
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
+![Linux Badge](https://img.shields.io/badge/Linux-0078D6?logo=linux&logoColor=fff&style=for-the-badge)
 
-![PHPStorm Badge](https://img.shields.io/badge/PHPStorm-000000?logo=phpstorm&logoColor=fff&style=for-the-badge)
+![PHPStorm Badge](https://img.shields.io/badge/PHPStorm-F05032?logo=phpstorm&logoColor=fff&style=for-the-badge)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
-![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge)
-![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
-![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
-![MariaDB Badge](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=fff&style=for-the-badge)
-![npm Badge](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=for-the-badge)
-![Node.js Badge](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff&style=for-the-badge)
-![Gulp Badge](https://img.shields.io/badge/Gulp-CF4647?logo=gulp&logoColor=fff&style=for-the-badge)
-![Webpack Badge](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=fff&style=for-the-badge)
-![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
-![Notepad++ Badge](https://img.shields.io/badge/Notepad%2B%2B-90E59A?logo=notepadplusplus&logoColor=fff&style=for-the-badge)
-![Eclipse IDE Badge](https://img.shields.io/badge/Eclipse_IDE-2C2255?logo=eclipseide&logoColor=fff&style=for-the-badge)
+![SQLite Badge](https://img.shields.io/badge/SQLite-F05032?logo=sqlite&logoColor=fff&style=for-the-badge)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-F05032?logo=postgresql&logoColor=fff&style=for-the-badge)
+![MySQL Badge](https://img.shields.io/badge/MySQL-F05032?logo=mysql&logoColor=fff&style=for-the-badge)
+![MariaDB Badge](https://img.shields.io/badge/MariaDB-F05032?logo=mariadb&logoColor=fff&style=for-the-badge)
+![npm Badge](https://img.shields.io/badge/npm-F05032?logo=npm&logoColor=fff&style=for-the-badge)
+![Node.js Badge](https://img.shields.io/badge/Node.js-F05032?logo=nodedotjs&logoColor=fff&style=for-the-badge)
+![Gulp Badge](https://img.shields.io/badge/Gulp-F05032?logo=gulp&logoColor=fff&style=for-the-badge)
+![Webpack Badge](https://img.shields.io/badge/Webpack-F05032?logo=webpack&logoColor=fff&style=for-the-badge)
+![Docker Badge](https://img.shields.io/badge/Docker-F05032?logo=docker&logoColor=fff&style=for-the-badge)
+![Notepad++ Badge](https://img.shields.io/badge/Notepad%2B%2B-F05032?logo=notepadplusplus&logoColor=fff&style=for-the-badge)
+![Eclipse IDE Badge](https://img.shields.io/badge/Eclipse_IDE-F05032?logo=eclipseide&logoColor=fff&style=for-the-badge)
 
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge)
 ![Adobe Premiere Badge](https://img.shields.io/badge/Adobe%20Premiere-31A8FF?logo=adobepremierepro&logoColor=fff&style=for-the-badge)
-![Davinci Resolve Badge](https://img.shields.io/badge/Davinci%20Resolve-FFA200?style=for-the-badge&logo=blackmagicdesign&logoColor=fff)
-![Inkscape Badge](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=fff)
-![Microsoft Office Badge](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft&logoColor=fff&style=for-the-badge)
-![Audacity Badge](https://img.shields.io/badge/Audacity-0000CC?logo=audacity&logoColor=fff&style=for-the-badge)
-![Atlassian Confluence Badge](https://img.shields.io/badge/Atlassian%20Confluence-172B4D?logo=confluence&logoColor=fff&style=for-the-badge)
-![Atlassian Jira Badge](https://img.shields.io/badge/Atlassian%20Jira-0052CC?logo=jira&logoColor=fff&style=for-the-badge)
-![Slack Badge](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff&style=for-the-badge)
-![Notion Badge](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=fff&style=for-the-badge)
-![Fruity Loops Badge](https://img.shields.io/badge/Fruity_Loops-000?style=for-the-badge)
+![Davinci Resolve Badge](https://img.shields.io/badge/Davinci%20Resolve-31A8FF?style=for-the-badge&logo=blackmagicdesign&logoColor=fff)
+![Inkscape Badge](https://img.shields.io/badge/Inkscape-31A8FF?style=for-the-badge&logo=inkscape&logoColor=fff)
+![Microsoft Office Badge](https://img.shields.io/badge/Microsoft%20Office-31A8FF?logo=microsoft&logoColor=fff&style=for-the-badge)
+![Audacity Badge](https://img.shields.io/badge/Audacity-31A8FF?logo=audacity&logoColor=fff&style=for-the-badge)
+![Atlassian Confluence Badge](https://img.shields.io/badge/Atlassian%20Confluence-31A8FF?logo=confluence&logoColor=fff&style=for-the-badge)
+![Atlassian Jira Badge](https://img.shields.io/badge/Atlassian%20Jira-31A8FF?logo=jira&logoColor=fff&style=for-the-badge)
+![Slack Badge](https://img.shields.io/badge/Slack-31A8FF?logo=slack&logoColor=fff&style=for-the-badge)
+![Notion Badge](https://img.shields.io/badge/Notion-31A8FF?logo=notion&logoColor=fff&style=for-the-badge)
+![Fruity Loops Badge](https://img.shields.io/badge/Fruity_Loops-31A8FF?style=for-the-badge)
 
 ![Twitch Status](https://img.shields.io/twitch/status/systemneo?style=for-the-badge&logo=twitch&logoColor=fff)
 
 ---
 
-### PRINCIPLES
+### MY PRINCIPLES
 ![Clean Code Badge](https://img.shields.io/badge/Clean%20Code-000?style=for-the-badge)
 ![Clean Architecture Badge](https://img.shields.io/badge/Clean%20Architecture-000?style=for-the-badge)
 ![Design Patterns Badge](https://img.shields.io/badge/Design%20Patterns-000?style=for-the-badge)
@@ -88,7 +88,7 @@
 
 ---
 
-### BUDDIES
+### MY CODE BUDDIES
 | [![DerHobbs](https://avatars.githubusercontent.com/u/101003021?s=100&v=4)<br />DerHobbs](https://github.com/DerHobbs) |
 |:------:|
 <!--
