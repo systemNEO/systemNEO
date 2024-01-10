@@ -31,6 +31,7 @@
 ![Handlebars Badge](https://img.shields.io/badge/Handlebars-2C2D72?style=for-the-badge&logo=handlebarsdotjs&logoColor=fff)
 ![Markdown Badge](https://img.shields.io/badge/Markdown-2C2D72?style=for-the-badge&logo=markdown&logoColor=fff)
 ![.env Badge](https://img.shields.io/badge/.env-2C2D72?style=for-the-badge&logo=dotenv&logoColor=fff)
+![JSON Badge](https://img.shields.io/badge/JSON-2C2D72?style=for-the-badge&logo=json&logoColor=fff)
 
 ![Angular Badge](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff&style=for-the-badge)
 ![AngularJS Badge](https://img.shields.io/badge/AngularJS-DD0031?logo=angular&logoColor=fff&style=for-the-badge)
