@@ -1,4 +1,4 @@
-### MY CURRENT PROJECT(S)
+### MY CURRENT PROJECTS
 | [![Night Shift Studio](https://avatars.githubusercontent.com/u/114626586?s=100&v=4)<br />Night Shift Studio](https://night-shift-studio.com/)<br />REDM scripts |
 |:------:|
 
@@ -95,6 +95,12 @@
 ![Resilience Badge](https://img.shields.io/badge/Resilience-000?style=flat)
 ![Self Organisation Badge](https://img.shields.io/badge/Self_Organisation-000?style=flat)
 ![Performance and efficiency Badge](https://img.shields.io/badge/Performance_%26_efficiency-000?style=flat)
+
+---
+
+### BUDDIES
+| [![DerHobbs](https://avatars.githubusercontent.com/u/101003021?s=100&v=4)<br />DerHobbs](https://github.com/DerHobbs) |
+|:------:|
 <!--
 ![Neo´s GitHub stats](https://github-readme-stats.vercel.app/api?username=systemneo&show_icons=true&theme=dark)
 -->
