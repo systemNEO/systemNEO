@@ -1,5 +1,5 @@
 ## WELCOME
-*I am a fulstack web dev and I love my job.*
+*I am a fulstack web dev and I love it.*
 
 ---
 
