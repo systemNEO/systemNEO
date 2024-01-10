@@ -1,8 +1,10 @@
-### 🛠️ My projects
+### MY CURRENT PROJECT(S)
 | [![Night Shift Studio](https://avatars.githubusercontent.com/u/114626586?s=100&v=4)<br />Night Shift Studio](https://night-shift-studio.com/)<br />REDM scripts |
 |:------:|
 
-### 🔤 Languages
+---
+
+### LANGUAGES 
 ![Lua Badge](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff&style=flat)
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
@@ -23,7 +25,9 @@
 ![Markdown Badge](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=fff)
 ![.env Badge](https://img.shields.io/badge/.env-ECD53F?style=flat&logo=dotenv&logoColor=000)
 
-### 💼 Frameworks
+---
+
+### FRAMEWORKS
 ![Angular Badge](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff&style=flat)
 ![AngularJS Badge](https://img.shields.io/badge/AngularJS-E23237?logo=angularjs&logoColor=fff&style=flat)
 ![Font Awesome Badge](https://img.shields.io/badge/Font%20Awesome-528DD7?logo=fontawesome&logoColor=fff&style=flat)
@@ -31,11 +35,15 @@
 ![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
 ![Sencha Badge](https://img.shields.io/badge/Sencha-86BC40?logo=sencha&logoColor=fff&style=flat)
 
-### 💻 OS systems
+---
+
+### OS SYSTEMS
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 
-### 🖥️ Code applications
+---
+
+### CODE RELATED APPS
 ![PHPStorm Badge](https://img.shields.io/badge/PHPStorm-000000?logo=phpstorm&logoColor=fff&style=flat)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
 ![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=flat)
@@ -50,7 +58,9 @@
 ![Notepad++ Badge](https://img.shields.io/badge/Notepad%2B%2B-90E59A?logo=notepadplusplus&logoColor=fff&style=flat)
 ![Eclipse IDE Badge](https://img.shields.io/badge/Eclipse_IDE-2C2255?logo=eclipseide&logoColor=fff&style=flat)
 
-### 🖥️ Other applications
+---
+
+### OTHER APPS
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
 ![Adobe Premiere Badge](https://img.shields.io/badge/Adobe%20Premiere-31A8FF?logo=adobepremierepro&logoColor=fff&style=flat)
 ![Davinci Resolve Badge](https://img.shields.io/badge/Davinci%20Resolve-FFA200?style=flat&logo=blackmagicdesign&logoColor=fff)
@@ -63,7 +73,9 @@
 ![Notion Badge](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=fff&style=flat)
 ![Fruity Loops Badge](https://img.shields.io/badge/Fruity_Loops-000?style=flat)
 
-### 💡 Principles
+---
+
+### PRINCIPLES
 ![Clean Code Badge](https://img.shields.io/badge/Clean%20Code-000?style=flat)
 ![Clean Architecture Badge](https://img.shields.io/badge/Clean%20Architecture-000?style=flat)
 ![Design Patterns Badge](https://img.shields.io/badge/Design%20Patterns-000?style=flat)
@@ -75,7 +87,7 @@
 ![Domain Driven Design Badge](https://img.shields.io/badge/Domain_Driven_Design-000?style=flat)
 ![Microservices Badge](https://img.shields.io/badge/Microservices-000?style=flat)
 ![Progressive Web Apps Badge](https://img.shields.io/badge/Progressive_Web_Apps-000?style=flat)
-![Reactive Web Apps Badge](https://img.shields.io/badge/Reactive_Web_Apps-000?style=flat)
+![Responsive Webdesign Badge](https://img.shields.io/badge/Responsive_Webdesign-000?style=flat)
 ![Test Automation Badge](https://img.shields.io/badge/Test_Automation-000?style=flat)
 ![Code Style Guides Badge](https://img.shields.io/badge/Code_Style_Guides-000?style=flat)
 ![APIs Badge](https://img.shields.io/badge/There_is_an_API_for_it-000?style=flat)
@@ -83,21 +95,6 @@
 ![Resilience Badge](https://img.shields.io/badge/Resilience-000?style=flat)
 ![Self Organisation Badge](https://img.shields.io/badge/Self_Organisation-000?style=flat)
 ![Performance and efficiency Badge](https://img.shields.io/badge/Performance_%26_efficiency-000?style=flat)
-
-
-
 <!--
-**systemNEO/systemNEO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 ![Neo´s GitHub stats](https://github-readme-stats.vercel.app/api?username=systemneo&show_icons=true&theme=dark)
 -->
